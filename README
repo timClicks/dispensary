@@ -1,0 +1,12 @@
+The dispensary is a series of Python classes that 
+provides access to resources
+
+Currently only a feed parser & cache is partially 
+complete... :'( 
+
+Author
+  TSM <paperless@timmcnamara.co.nz>
+  @timClicks
+
+Licence:
+  GPL v3 or later
